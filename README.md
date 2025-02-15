@@ -1,4 +1,3 @@
-# 📖 **README Completo para el Proyecto de Detección de Placas con Flask, OpenALPR, Docker y React Native**
 
 ## 🚗 **Proyecto: Detector de Placas Automático**
 
